@@ -6,16 +6,16 @@ const Navbar = () => {
     
          <nav className="fixed flex flex-row-reverse w-full top-0 left-0 bg-white">
              <div className="mx-6 text-xl font-bold">
-            <a href="/" className="text-lime-700 hover:text-gray-500">Portfolio</a>
+            <a href="https://redscale.vercel.app/?fbclid=PAAab3mKr68AtwETKYtUU2vpAWkHr-oM8qmZanXkFVySk9Rsb23HrIjj-Oxfc" className="text-lime-700 hover:text-gray-500">Portfolio</a>
         </div>    
         <div className="mx-6 text-xl font-bold">
-            <a href="/" className="text-lime-700 hover:text-gray-500">Contact Us</a>
+            <a href="https://redscale.vercel.app/?fbclid=PAAab3mKr68AtwETKYtUU2vpAWkHr-oM8qmZanXkFVySk9Rsb23HrIjj-Oxfc" className="text-lime-700 hover:text-gray-500">Contact Us</a>
         </div>   
         <div className="mx-6 text-xl font-bold">
-            <a href="/" className="text-lime-700 hover:text-gray-500">About Us</a>
+            <a href="https://redscale.vercel.app/?fbclid=PAAab3mKr68AtwETKYtUU2vpAWkHr-oM8qmZanXkFVySk9Rsb23HrIjj-Oxfc" className="text-lime-700 hover:text-gray-500">About Us</a>
         </div>  
         <div className="mx-6 text-xl font-bold">
-            <a href="/" className="text-lime-700 hover:text-gray-500">Home</a>
+            <a href="https://redscale.vercel.app/?fbclid=PAAab3mKr68AtwETKYtUU2vpAWkHr-oM8qmZanXkFVySk9Rsb23HrIjj-Oxfc" className="text-lime-700 hover:text-gray-500">Home</a>
         </div>  
         
     </nav>
